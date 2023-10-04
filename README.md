@@ -1,6 +1,6 @@
 ## Welcome, I'm Justin, nice to meet you!
 <p align="left"> <https://komarev.com/ghpvc/?username=justinprogdev&label=Profile%20Views&color=0e75b6&style=flat-square" alt="justin mcclain" />  
-[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/bizdork)
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/bizdork)]
 </p>
 ### ✋I'm looking to contribute to open source AI/ML projects
 
