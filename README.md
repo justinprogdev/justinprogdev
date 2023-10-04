@@ -13,7 +13,7 @@
 
 <a href="https://www.kaggle.com/justinmcclain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="justinmcclain" height="30" width="40" />Kaggle</a>
 
-<a href="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="justinmcclain" height="30" width="40" />or Hacker Rank!</a>
+<a href="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="justinmcclain" height="30" width="40" />or Hacker Rank!</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,7 +25,7 @@
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://github.com/justinprogdev/justinprogdev/c-sharp-c.svg" alt="docker" width="40" height="40"/> C#</a> 
 
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>SQL Server</a> 
-  
+
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>My Sql</a>
   
 <br />
