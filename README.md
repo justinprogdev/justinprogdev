@@ -1,6 +1,6 @@
 ## Welcome, I'm Justin, nice to meet you!
 
-### ✋I'm looking to contribute to open source AI/ML projects
+### I'm looking to contribute to open source AI/ML projects
 
 - 🤖 I’m currently working on artifical intelligence class projects, for my Master's at BU.
 - 📚 My AI repo has Fuzzy logic with scikit-fuzzy, AI Planning with PDDL and First Order Logic.
