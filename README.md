@@ -2,8 +2,8 @@
 ### Software Engineer at your service!
 
 - 🤖 I’m currently working on artifical intelligence class projects, for my Master's at BU.
-- I’m currently learning Fuzzy logic with scikit-fuzzy, AI Planning with PDDL and First Order Logic.
-- 💬 Ask me about C#, Python, or even AzDO Pipelines.⚙️
+- 📚 I’m currently learning Fuzzy logic with scikit-fuzzy, AI Planning with PDDL and First Order Logic.
+- 💬 Ask me about C#, Python, or even AzDO Pipelines! ⚙️
 - 📫 How to reach me: developmentjustin7@gmail.com
 - ⚡ Fun Fact, I have been reading a lot of Alex Garland lately!📗
 
