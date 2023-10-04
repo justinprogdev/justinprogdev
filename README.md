@@ -1,15 +1,11 @@
 ## Welcome, I'm Justin, nice to meet you!
-### Software Engineer at your service!
+### ✋I'm looking to contribute to open source AI/ML projects
 
 - 🤖 I’m currently working on artifical intelligence class projects, for my Master's at BU.
-- 📚 I’m learning Fuzzy logic with scikit-fuzzy, AI Planning with PDDL and First Order Logic.
+- 📚 My AI repo has Fuzzy logic with scikit-fuzzy, AI Planning with PDDL and First Order Logic.
 - 💬 Ask me about C#, Python, or even AzDO Pipelines! ⚙️
 - 📫 How to reach me: developmentjustin7@gmail.com
 - ⚡ Fun Fact, I have been reading a lot of Alex Garland lately!📗
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,7 +28,12 @@
 <br />
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+  <summary>:zap: GitHub Stats</summary>
+<a href="https://github.com/justinprogdev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=justinprogdev&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Sam's github stats" /></a> 
+<br> <br> 
+<a href="https://github.com/justinprogdev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinprogdev&theme=dracula&hide_border=true" /></a>
+</details>
+
   
 
 
