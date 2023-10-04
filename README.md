@@ -7,6 +7,10 @@
 - 📫 How to reach me: developmentjustin7@gmail.com
 - ⚡ Fun Fact, I have been reading a lot of Alex Garland lately!📗
 
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bizdork" target="blank">
@@ -21,22 +25,20 @@
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 
-  <a href="https://www.apache.kafka.org" target="_blank" rel="noreferrer"> <img src="https://github.com/justin-mcclain/blob/main/svg/kafka.png" alt="Kafka" width="40" height="40"/>Kafka</a> 
+  <a href="https://www.apache.kafka.org" target="_blank" rel="noreferrer"> <img src="https://github.com/justin-mcclain/blob/main/svg/kafka.png" alt="Kafka" width="40" height="40"/></a> 
  
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://github.com/justinprogdev/justinprogdev/c-sharp-c.svg" alt="docker" width="40" height="40"/> C#</a> 
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://github.com/justinprogdev/justinprogdev/c-sharp-c.svg" alt="C#" width="40" height="40"/></a> 
 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>SQL Server</a> 
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MS SQL" width="40" height="40"/></a> 
 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>My Sql</a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySql" width="40" height="40"/></a>
   
 <br />
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
-<!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
 
 
 
