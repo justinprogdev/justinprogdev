@@ -26,7 +26,7 @@
  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://github.com/justinprogdev/justinprogdev/blob/main/c-sharp-c.svg" alt="C#" width="40" height="40"/></a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MS SQL" width="40" height="40"/></a> 
-  <a href="https://www.apache.kafka.org" target="_blank" rel="noreferrer"> <img src="https://github.com/justinprogdev/justinprogdev/blob/main//svg/kafka.png" alt="Kafka" width="40" height="40"/></a> 
+  <a href="https://www.apache.kafka.org" target="_blank" rel="noreferrer"> <img src="https://github.com/justinprogdev/justinprogdev/blob/main/svg/kafka.png" alt="Kafka" width="40" height="40"/></a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySql" width="40" height="40"/></a>
   
 <br />
