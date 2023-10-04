@@ -4,7 +4,7 @@
 - 🤖 I’m currently working on artifical intelligence class projects, for my Master's at BU.
 - I’m currently learning Fuzzy logic with scikit-fuzzy, AI Planning with PDDL and First Order Logic.
 - 💬 Ask mAe about SQL, Python, or anything data related.⚙️
-- 📫 How to reach me: samuel2wright@gmail.com
+- 📫 How to reach me: developmentjustin7@gmail.com
 - ⚡ Fun fact: I love to read murder mystery books!📗
 
 <h3 align="left">Connect with me:</h3>
