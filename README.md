@@ -2,9 +2,11 @@
 
 ### I'm looking to contribute to open source AI/ML projects
 
-- 🤖 I’m currently working on artifical intelligence class projects, for my Master's at BU.
+- 🤖 I’m currently working on artifical intelligence class projects for my Master's at BU.
 - 📚 My AI repo has Fuzzy logic with scikit-fuzzy, AI Planning with PDDL and First Order Logic.
-- 💬 Ask me about C#, Python, or even AzDO Pipelines! ⚙️
+-  ❎🅾️🅾️Now I am adding ML with Q-Learning Tic-Tac-Toe playing bots ⚙️
+-  🅾️❎🅾️
+-  🅾️🅾️❎
 - 📫 How to reach me: developmentjustin7@gmail.com
 - ⚡ Fun Fact, I have been reading a lot of Alex Garland lately!📗
 
