@@ -1,6 +1,6 @@
 ## Welcome, I'm Justin, want to build something?
 
-### My best projects are private, but would love to collaborate on anything from web, to AI/ML.
+### My best projects are private, but would love to collaborate on anything from Dev Tools, to AI/ML.
 
 - 🤖 I’m currently working on artifical intelligence class projects for my Master's at BU.
 - 📚 My AI repo has Fuzzy logic with scikit-fuzzy, AI Planning with PDDL and First Order Logic.
