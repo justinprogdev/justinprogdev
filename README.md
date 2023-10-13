@@ -3,11 +3,11 @@
 ### My best projects are private, but would love to collaborate on anything from Dev Tools, to AI/ML.
 
 - 🤖 I’m currently working on artifical intelligence class projects for my Master's at BU.
-- This week, I have to do some Natural Language and will be pushing it to the Artifical-Intelligence repo as I go. 
+- 💬🗣️I just pushed a natural language chat bot to my artificial intelligence repo, under the natural_language folder.🗣️💬
 - 📚 My AI repo has Fuzzy logic with scikit-fuzzy, AI Planning with PDDL and First Order Logic.
--  ❎🅾️🅾️ I added ML with Q-Learning, with Tic-Tac-Toe playing bots ⚙️
--  🅾️❎🅾️
--  🅾️🅾️❎
+  ❎🅾️🅾️ I added ML with Q-Learning, with Tic-Tac-Toe playing bots ⚙️
+  🅾️❎🅾️
+  🅾️🅾️❎
 - 📫 How to reach me: developmentjustin7@gmail.com
 - ⚡ Fun Fact: I have been reading a lot of Alex Garland lately!📗
 
