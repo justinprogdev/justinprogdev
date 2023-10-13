@@ -7,9 +7,9 @@
   🗣️💬The rules are in natural language, and focus on counseling folks in a mid-life career search 🗣️💬
   
 - 📚 My AI repo has Fuzzy logic with scikit-fuzzy, AI Planning with PDDL and First Order Logic.
-  ❎🅾️🅾️ I added ML with Q-Learning, with Tic-Tac-Toe playing bots ⚙️
-  🅾️❎🅾️
-  🅾️🅾️❎
+- ❎🅾️🅾️ I added ML with Q-Learning, with Tic-Tac-Toe playing bots ⚙️
+- 🅾️❎🅾️
+- 🅾️🅾️❎
   
 - 📫 How to reach me: developmentjustin7@gmail.com
 - ⚡ Random Fact: I've been playing Death Loop quite a bit
