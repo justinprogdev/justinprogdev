@@ -4,7 +4,7 @@
 #### I'm currently in the Master's of Science in Software Development program at BU (so I would advise not to use my work for your assignment).
 
 - 😲 I just pushed a natural language chat bot to my artificial intelligence repo, under the natural_language folder.
-  🗣️💬The rules are in natural language, and focus on counseling folks in a mid-life career search 🗣️💬
+- 🗣️💬The rules are in natural language, and focus on counseling folks in a mid-life career search 🗣️💬
   
 - 📚 My AI repo has Fuzzy logic with scikit-fuzzy, AI Planning with PDDL and First Order Logic.
 - ❎🅾️🅾️ I added ML with Q-Learning, with Tic-Tac-Toe playing bots ⚙️
