@@ -1,7 +1,3 @@
-<div align="right">
-<img src="https://komarev.com/ghpvc/?username=justinprogdev&&style=flat-square" align="right" />
-</div>
-<br/>
 ## Welcome, I'm Justin, want to build something?
 
 ### My best projects are private, but would love to collaborate on anything from Dev Tools, to AI/ML.
@@ -44,8 +40,10 @@
 </details>
 
 <br/>  
-
-  
+<div align="right">
+<img src="https://komarev.com/ghpvc/?username=justinprogdev&&style=flat-square" align="right" />
+</div>
+<br/>
 
 
 
