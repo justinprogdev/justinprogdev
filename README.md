@@ -38,10 +38,12 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-<a href="https://github.com/justinprogdev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=justinprogdev&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Sam's github stats" /></a> 
+<a href="https://github.com/justinprogdev/github-readme-stats.vercel.app"><img align="center" src="https://github-readme-stats.vercel.app/api?username=justinprogdev&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Justin's github stats" /></a> 
 <br> <br> 
 <a href="https://github.com/justinprogdev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinprogdev&theme=dracula&hide_border=true" /></a>
 </details>
+
+<br/>  
 
   
 
