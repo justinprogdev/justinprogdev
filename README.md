@@ -22,7 +22,9 @@
 <a href="https://www.hackerrank.com/uebertech"  target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="justinmcclain" height="30" width="40" />or Hacker Rank!</a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?=justinprogdev&style=flat-square&color=blue" alt=""/>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=justinprogdev&&style=flat-square" align="center" />
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
