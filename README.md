@@ -1,5 +1,9 @@
 ## Welcome, I'm Justin, want to build something?
 
+<div align="right">
+<img src="https://komarev.com/ghpvc/?username=justinprogdev&&style=flat-square" align="right" />
+</div>
+
 ### My best projects are private, but would love to collaborate on anything from Dev Tools, to AI/ML.
 #### I'm currently in the Master's of Science in Software Development program at BU (so I would advise not to use my work for your assignment).
 
@@ -21,10 +25,6 @@
 <a href="https://www.kaggle.com/justinmcclain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="justinmcclain" height="30" width="40" />Kaggle</a>
 <a href="https://www.hackerrank.com/uebertech"  target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="justinmcclain" height="30" width="40" />or Hacker Rank!</a>
 </p>
-
-<div align="left">
-<img src="https://komarev.com/ghpvc/?username=justinprogdev&&style=flat-square" align="left" />
-</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
