@@ -1,8 +1,8 @@
-## Welcome, I'm Justin, want to build something?
-
 <div align="right">
 <img src="https://komarev.com/ghpvc/?username=justinprogdev&&style=flat-square" align="right" />
 </div>
+<br/>
+## Welcome, I'm Justin, want to build something?
 
 ### My best projects are private, but would love to collaborate on anything from Dev Tools, to AI/ML.
 #### I'm currently in the Master's of Science in Software Development program at BU (so I would advise not to use my work for your assignment).
