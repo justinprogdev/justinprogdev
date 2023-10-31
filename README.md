@@ -3,11 +3,11 @@
 ### My best projects are private, but would love to collaborate on anything from Dev Tools, to AI/ML.
   
 #### 🦾 for the next 7 weeks (starting on Halloween 🎃) I will be pushing multiple Machine Learning Projects! <a href="https://github.com/justinprogdev/Artificial-Intelligence/tree/main/machine_learning">Here<a/>
-- 😲 You can find a natural language chat bot to my artificial intelligence repo, under the natural_language folder.
+- 😲 You can find a natural language chat bot to my artificial intelligence repo, under the natural_language folder. <a href="https://github.com/justinprogdev/Artificial-Intelligence/tree/main/natural_language">Here<a/>
 - 🗣️💬The rules are in natural language, and focus on counseling folks in a mid-life career search 🗣️💬
   
 - 📚 My AI repo has Fuzzy logic with scikit-fuzzy, AI Planning with PDDL and First Order Logic.
-- ❎🅾️🅾️ I added ML with Q-Learning, with Tic-Tac-Toe playing bots ⚙️
+- ❎🅾️🅾️ I added ML with Q-Learning, with Tic-Tac-Toe playing bots ⚙️ <a href="https://github.com/justinprogdev/Artificial-Intelligence/tree/main/q_learning/tic_tac_toe">Here<a/>
 - 🅾️❎🅾️
 - 🅾️🅾️❎
   
