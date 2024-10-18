@@ -4,7 +4,7 @@
 - Microsoft's AutoDev paper is scary. Basically it's an autogen solution designed to take our dev job 🫢 <a href="https://arxiv.org/abs/2403.08299">Read it, it likely affects you.<a/>  
 - Autogen is a library for creating multi-agent solutions. <a href="https://microsoft.github.io/autogen/docs/Use-Cases/agent_chat/"> It's fun to play with, and I use it in my AI repo, under natural language.<a/>   
 
-### 🦾 Check out the Lego-man generator, using a basic GAN. <a href="https://github.com/justinprogdev/Artificial-Intelligence/tree/main/machine_learning">Here<a/>
+### 🦾 Check out the Lego-man generator, using a basic GAN. <a href="https://github.com/justinprogdev/Artificial-Intelligence/blob/main/machine_learning/neural_netwok/legoman_gan.ipynb">Here<a/>
 - 😲 You can find a natural language chat bot to my artificial intelligence repo, under the natural_language folder. <a href="https://github.com/justinprogdev/Artificial-Intelligence/tree/main/natural_language">Here<a/>
 - 🗣️💬The rules are in natural language, and focus on counseling folks in a mid-life career search 🗣️💬
   
