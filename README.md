@@ -1,51 +1,78 @@
-## Welcome, I'm Justin, want to build something?
+## 👋 Hey, I'm justinprogdev
 
-### Currently I am following developments in AI algo as papers come out.  
-- Autogen is a library for creating multi-agent solutions. <a href="https://microsoft.github.io/autogen/docs/Use-Cases/agent_chat/"> It's fun to play with, and I use it in my AI repo, under natural language.<a/>   
+### 🛠️ Learning Low-Level Dev in Public | Streaming the Journey | Lifelong Builder
 
-### 🦾 Check out the Lego-man generator, using a basic GAN. <a href="https://github.com/justinprogdev/Artificial-Intelligence/blob/main/machine_learning/neural_netwok/legoman_gan.ipynb">Here<a/>
-- 😲 You can find a natural language chat bot to my artificial intelligence repo, under the natural_language folder. <a href="https://github.com/justinprogdev/Artificial-Intelligence/tree/main/natural_language">Here<a/>
-- 🗣️💬The rules are in natural language, and focus on counseling folks in a mid-life career search 🗣️💬
-  
-- 📚 My AI repo has Fuzzy logic with scikit-fuzzy, AI Planning with PDDL and First Order Logic.
-- ❎🅾️🅾️ I added Q-Learning, with Tic-Tac-Toe playing bots ⚙️ <a href="https://github.com/justinprogdev/Artificial-Intelligence/tree/main/q_learning/tic_tac_toe">Here<a/>
-- 🅾️❎🅾️
-- 🅾️🅾️❎
-  
-- 📫 How to reach me: developmentjustin7@gmail.com
-- ⚡ Random Fact: I've been revisiting old Fallout games lately 
+I'm a mid-career enterprise dev—years of C#, SQL Server, and real-world shipping. I’m not here to pretend I'm a systems wizard or an algorithm ninja. I'm here to **learn out loud**, tackle low-level Rust, and show what it really looks like to retool and grow — especially when you're not 22 anymore.
 
-<h3 align="left">Connect with me:</h3>
+If you're learning late, switching gears, or just trying to get sharper — you’re not alone.
+
+---
+
+### 💡 What I’m About
+- 🦀 Streaming my journey learning Rust, systems concepts, and unsafe code
+- 🧱 Grounded in SOLID principles, design patterns, and enterprise-scale code
+- ⚙️ Still working with .NET — but stepping outside the comfort zone
+- 📹 Focused on showing *how* I learn, not just *what* I know
+
+---
+
+### 🌱 Current Focus
+- Low-level memory concepts, ownership, and the borrow checker
+- Building mental models from scratch (and breaking a few)
+- Practicing by doing — not just reading docs
+
+---
+
+### 💬 Ask Me About
+- C#, SQL Server, .NET Core APIs, Azure DevOps Pipelines
+- How to keep learning without burning out
+- What it’s like to pivot mid-career while staying employed
+
+---
+
+### 🔗 Connect
 <p align="left">
-<a href="https://linkedin.com/in/bizdork" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="justin-mcclain" height="30" width="40" />On LinkedIn</a>
-<a href="https://www.kaggle.com/justinmcclain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="justinmcclain" height="30" width="40" />Kaggle</a>
-<a href="https://www.hackerrank.com/uebertech"  target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="justinmcclain" height="30" width="40" />or Hacker Rank!</a>
+  <a href="https://www.neetz.info/about" target="_blank">
+    🌐 Personal Site
+  </a> · 
+  <a href="https://linkedin.com/in/bizdork" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.kaggle.com/justinmcclain" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/uebertech" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
- <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://github.com/justinprogdev/justinprogdev/blob/main/c-sharp-c.svg" alt="C#" width="40" height="40"/></a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MS SQL" width="40" height="40"/></a> 
-  <a href="https://www.apache.kafka.org" target="_blank" rel="noreferrer"> <img src="https://github.com/justinprogdev/justinprogdev/blob/main/kafka.png" alt="Kafka" width="40" height="40"/></a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySql" width="40" height="40"/></a>
-  
-<br />
+📫 Email: developmentjustin7@gmail.com  
+📗 Currently reading: *Alex Garland and anything that messes with your head*
+
+---
+
+### 🧰 Languages & Tools
+<p align="left">
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="C#" width="40" height="40"/>
+  </a>
+  <a href="https://www.rust-lang.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="Rust" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+</p>
+
+---
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-<a href="https://github.com/justinprogdev/github-readme-stats.vercel.app"><img align="center" src="https://github-readme-stats.vercel.app/api?username=justinprogdev&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Justin's github stats" /></a> 
-<br> <br> 
-<a href="https://github.com/justinprogdev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinprogdev&theme=dracula&hide_border=true" /></a>
+  <a href="https://github.com/justinprogdev/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=justinprogdev&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="GitHub stats" />
+  </a>
+  <br><br>
+  <a href="https://github.com/justinprogdev/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinprogdev&theme=dracula&hide_border=true" />
+  </a>
 </details>
-
-<br/>  
-<div align="right">
-<img src="https://komarev.com/ghpvc/?username=justinprogdev&&style=flat-square" align="right" />
-</div>
-<br/>
-
-
-
-
