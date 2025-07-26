@@ -1,4 +1,4 @@
-## 👋 Hey, I'm justinprogdev. I'm a regular guy
+## 👋 Hey, I'm justin. I'm a regular guy
 
 ### 🛠️ Learning Low-Level Dev in Public | Streaming the Journey | Lifelong Builder
 
