@@ -1,8 +1,8 @@
-## 👋 Hey, I'm justinprogdev
+## 👋 Hey, I'm justinprogdev. I'm a regular guy
 
 ### 🛠️ Learning Low-Level Dev in Public | Streaming the Journey | Lifelong Builder
 
-I'm a mid-career enterprise dev—years of C#, SQL Server, and real-world shipping. I’m not here to pretend I'm a systems wizard or an algorithm ninja. I'm here to **learn out loud**, tackle low-level Rust, and show what it really looks like to retool and grow — especially when you're not 22 anymore.
+I'm a mid-career enterprise dev—years of C#, SQL Server, and real-world shipping. I’m not here to pretend I'm a systems wizard or an algo ninja. I'm here to **learn out loud**, tackle low-level Rust, and show what it really looks like to retool and grow — especially when you're not 24 anymore.
 
 If you're learning late, switching gears, or just trying to get sharper — you’re not alone.
 
@@ -29,23 +29,21 @@ If you're learning late, switching gears, or just trying to get sharper — you�
 - What it’s like to pivot mid-career while staying employed
 
 ---
+### 🚀 Projects
+
+<p align="left">
+  <a href="https://www.neetz.info/about" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/🌍%20Neetz.info-Explore-blueviolet?style=for-the-badge" alt="Neetz.info Badge"/>
+  </a>
+</p>
+---
 
 ### 🔗 Connect
 <p align="left">
-  <a href="https://www.neetz.info/about" target="_blank">
-    🌐 Personal Site
-  </a> · 
   <a href="https://linkedin.com/in/bizdork" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://www.kaggle.com/justinmcclain" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/uebertech" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-  </a>
-</p>
-
+</p>  
 📫 Email: developmentjustin7@gmail.com  
 📗 Currently reading: *Alex Garland and anything that messes with your head*
 
