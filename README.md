@@ -9,7 +9,7 @@ If you're learning late, switching gears, or just trying to get sharper — you�
 ---
 
 ### 💡 What I’m About
-- 🦀 Streaming my journey learning Rust, systems concepts, and unsafe code
+- 🦀 Streaming my journey on <a href='https://www.twitch.tv/justinprogdev'>Twitch</a> learning Rust, systems concepts, and unsafe code
 - 🧱 Grounded in SOLID principles, design patterns, and enterprise-scale code
 - ⚙️ Still working with .NET — but stepping outside the comfort zone
 - 📹 Focused on showing *how* I learn, not just *what* I know
