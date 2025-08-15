@@ -49,6 +49,10 @@ If you're learning late, switching gears, or just trying to get sharper — you�
 
 ---
 
+### Study Music
+<a href="https://open.spotify.com/embed/playlist/3UZBbC2ggIJngukY3DVgP6">On Spotify <--👀</a>
+---
+
 ### 🧰 Languages & Tools
 <p align="left">
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
